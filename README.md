@@ -28,4 +28,4 @@ To run this project locally, follow these steps:
 
 \*\*Open your browser and go to http://localhost:3000 to view the project.
 
-You can view the live demo of this project [here](https://google.com).
+You can view the live demo of this project [here](https://apple-website-iphone-two.vercel.app/).
